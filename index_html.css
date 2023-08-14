@@ -14,33 +14,41 @@ a:hover { color:#B2B3B4; }
 		.menu_2d65da9e_mainMenuEntry:hover span {	color:#FFFFFF !important; }
 		#menu_2d65da9e .mobileEntry { display: none; } 
 		#menu_2d65da9e .normalEntry { display: block; } 
-		#menu_2d65da9e_menualignmentwrapper{ width:187px; left: calc(100% - 187px);  } 
+		#menu_2d65da9e_menualignmentwrapper{ width:215px; left: calc(100% - 215px);  } 
 		@media only screen and (max-width:550px) { 
 			#menu_2d65da9e .mobileEntry { display: block; } 
 			#menu_2d65da9e .normalEntry { display: none; } 
 			#menu_2d65da9e_menualignmentwrapper { width:37px; left: calc(100% - 37px);  } 
 		}
+#button_a8bef60 { box-sizing: border-box; border-radius: 15px; position:absolute; left:68%; top:82%; width:109px; height:24px; background-color:#6654C0; border: 0px solid #404040;  }
+#button_a8bef60:hover { background-color:#A9A9BC; border-color:#000000;  }
+#button_a8bef60:hover span { color:#FFFFFF; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_3cfa0dcf { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:111%; min-height:45px; background-color:#6AB8F5; background: linear-gradient(to right, #B80CE3, #6AB8F5); border: 1px solid #545454;  }
 #container_3cfa0dcf_padding { margin: 10px; display: block;  }
 #heading_73249144 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:15pt; font-family:'UD Digi Kyokasho NK-B'; color:#ECDDDD; text-align:center; font-weight:bold;  }
 .textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#menu_2d65da9e { box-sizing: border-box; position:absolute; left:54%; top:27%; width:26%; height:29px; text-align:left; background:none; border-top: none; border-left: none; border-right: none; border-bottom: none;  }
+#menu_2d65da9e { box-sizing: border-box; position:absolute; left:52%; top:9%; width:26%; height:29px; text-align:left; background:none; border-top: none; border-left: none; border-right: none; border-bottom: none;  }
 #menu_2d65da9e_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .menustyle1 { position:absolute; width:37px; height:29px; left:0px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
 .textstyle3 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:32px; height:29px; left:0px;  }
+.menustyle2 { position:absolute; width:155px; height:29px; left:0px;  }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
 .textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:30px; height:29px; left:32px;  }
+.menustyle3 { position:absolute; width:30px; height:29px; left:155px;  }
 .menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:0px;  }
-.menustyle4 { position:absolute; width:125px; height:29px; left:62px;  }
+.menustyle4 { position:absolute; width:30px; height:29px; left:185px;  }
 #container_36e1e858 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:471px; background:none;  }
 #container_36e1e858_padding { margin: 10px; display: block;  }
-#container_2b8ad0d3 { position:absolute; left:23%; top:23%; width:54%; min-height:150px; background:none;  }
+#container_2b8ad0d3 { position:absolute; left:-1%; top:10%; width:112%; min-height:84px; background:none;  }
 #container_2b8ad0d3_padding { margin: 10px; display: block;  }
-#text_3d119465 { position:absolute; left:40%; top:44%; background:none;  }
+#text_3d119465 { vertical-align: bottom; position:relative; display: inline-block; width:785px; height:231px; background:none;  }
 .textstyle5 { font-size:12pt; font-family:'Leelawadee UI'; color:#000000;  }
+#button_5c44c45e { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:123px; height:23px; background-color:#6654C0; border: 0px solid #404040;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle6 { text-align:center; }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
